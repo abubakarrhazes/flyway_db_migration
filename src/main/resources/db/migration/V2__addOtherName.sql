@@ -1,0 +1,1 @@
+ALTER TABLE users_tbl ADD COLUMN other_name VARCHAR(200);
